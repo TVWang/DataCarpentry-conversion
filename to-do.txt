@@ -3,4 +3,5 @@ Conversion function needed:
 - Dollars to Cents
 - Gallons to Litters
 - Hours to Minutes
+- Feet to Inches
 
